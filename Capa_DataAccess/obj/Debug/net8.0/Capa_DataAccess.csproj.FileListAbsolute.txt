@@ -1,0 +1,17 @@
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_DataAccess.deps.json
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_DataAccess.runtimeconfig.json
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_DataAccess.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_DataAccess.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_Entities.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\bin\Debug\net8.0\Capa_Entities.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.csproj.AssemblyReference.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.AssemblyInfoInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.AssemblyInfo.cs
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.csproj.CoreCompileInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_Dat.91050A8E.Up2Date
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\refint\Capa_DataAccess.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\Capa_DataAccess.genruntimeconfig.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_DataAccess\obj\Debug\net8.0\ref\Capa_DataAccess.dll

@@ -1,0 +1,11 @@
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\bin\Debug\net8.0\Capa_Entities.deps.json
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\bin\Debug\net8.0\Capa_Entities.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\bin\Debug\net8.0\Capa_Entities.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.AssemblyInfoInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.AssemblyInfo.cs
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.csproj.CoreCompileInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\refint\Capa_Entities.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\Capa_Entities.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Entities\obj\Debug\net8.0\ref\Capa_Entities.dll

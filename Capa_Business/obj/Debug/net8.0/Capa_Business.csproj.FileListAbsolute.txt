@@ -1,0 +1,17 @@
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_Business.deps.json
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_Business.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_Business.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_DataAccess.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_Entities.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_DataAccess.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\bin\Debug\net8.0\Capa_Entities.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.csproj.AssemblyReference.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.AssemblyInfoInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.AssemblyInfo.cs
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.csproj.CoreCompileInputs.cache
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Bus.05075247.Up2Date
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\refint\Capa_Business.dll
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\Capa_Business.pdb
+D:\Segundo Parcia_PAl\ExamenSegundoParcial\InventorySystem\Capa_Business\obj\Debug\net8.0\ref\Capa_Business.dll
