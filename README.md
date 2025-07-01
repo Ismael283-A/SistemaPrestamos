@@ -62,6 +62,33 @@ Navegador Web moderno
 
 Git instalado
 
+## 🧩 Funcionalidades principales
+
+- Gestión de Artículos (CRUD)
+- Gestión de Empleados y asignación de Usuario
+- Gestión de Clientes
+- Gestión de Préstamos con historial y observaciones
+- Login con roles: Administrador, Operador y Cliente
+- Vistas independientes por rol
+- Generación de reportes PDF y Excel
+- Sistema Responsive basado en HTML + JS + CSS + Bootstrap
+- Base de datos en SQL Server con relaciones integradas
+
+---
+
+
+## 📊 Reportes Generados
+
+| Código | Requisito Funcional                  | Descripción                                                                 |
+
+|--------|--------------------------------------|-----------------------------------------------------------------------------|
+
+| RF4.1  | Exportar listado de artículos a PDF  | Botón “Exportar PDF” genera documento con columnas clave desde el navegador. |
+
+| RF4.2  | Exportar listado de préstamos a Excel| Botón “Exportar Excel” genera archivo .xlsx descargable desde el navegador.  |
+
+Los botones se encuentran implementados dentro de la vista principal (admin.html u operador.html) al lado superior derecho de las tablas.
+
 # ⚙️ Instalación (local)
 
 
